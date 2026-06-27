@@ -1,0 +1,14 @@
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 320px;
+
+}
+
+nav ul{
+  display: flex;
+  list-style-type: none;
+  gap: 120px;
+  
+}
